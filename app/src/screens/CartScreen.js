@@ -37,7 +37,7 @@ const CartScreen = () => {
           </div>
           <div className="cart-text col-md-5 d-flex align-items-center">
             <Link to="#">
-              <h4>Nike Girls Shoe</h4>
+              <h4>Nintendo 2DS Console</h4>
             </Link>
           </div>
           <div className="cart-qty col-md-2 col-sm-5 mt-md-5 mt-3 mt-md-0 d-flex flex-column justify-content-center">
@@ -50,14 +50,14 @@ const CartScreen = () => {
           </div>
           <div className="cart-price mt-3 mt-md-0 col-md-2 align-items-sm-end align-items-start  d-flex flex-column justify-content-center col-sm-7">
             <h6>SUBTOTAL</h6>
-            <h4>$456</h4>
+            <h4>$396</h4>
           </div>
         </div>
 
         {/* End of cart iterms */}
         <div className="total">
           <span className="sub">total:</span>
-          <span className="total-price">$567</span>
+          <span className="total-price">$396</span>
         </div>
         <hr />
         <div className="cart-buttons d-flex align-items-center row">
